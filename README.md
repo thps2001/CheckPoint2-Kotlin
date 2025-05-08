@@ -1,16 +1,8 @@
 # Projeto Monitor de Criptomoedas em Android
 
-## Aluno: [O SEU NOME AQUI]
-
-## Matrícula: [SUA MATRÍCULA AQUI]
-
-## Disciplina: [NOME DA DISCIPLINA]
-
-## Professor: [NOME DO PROFESSOR]
-
 ## Introdução
 
-Este projeto foi desenvolvido como parte da avaliação da disciplina de [NOME DA DISCIPLINA]. O objetivo principal é criar uma aplicação Android simples capaz de consultar e exibir a cotação de uma criptomoeda (Bitcoin - BTC) em Reais (BRL), utilizando a API pública do Mercado Bitcoin.
+Este projeto foi desenvolvido como parte da avaliação da disciplina de Android Kotlin Developer. O objetivo principal é criar uma aplicação Android simples capaz de consultar e exibir a cotação de uma criptomoeda (Bitcoin - BTC) em Reais (BRL), utilizando a API pública do Mercado Bitcoin.
 
 A ideia é que o utilizador possa, de forma rápida e fácil, verificar o valor atual do Bitcoin e a data da última atualização dessa cotação. A aplicação foi construída em Kotlin, seguindo as boas práticas de desenvolvimento Android, mas com um foco em ser um projeto de um aluno de Sistemas de Informação, ou seja, funcional e direto ao ponto!
 
@@ -82,16 +74,3 @@ Durante o desenvolvimento deste projeto, enfrentei alguns desafios, como:
 *   Formatar os dados (valor monetário e data) para uma apresentação amigável ao utilizador.
 
 Este projeto foi uma ótima oportunidade para aplicar os conhecimentos adquiridos em desenvolvimento mobile Android, especialmente no que diz respeito ao consumo de APIs, manipulação de dados e criação de interfaces simples e funcionais.
-
-## Próximos Passos (Sugestões)
-
-Como sugestões para evoluções futuras, poderiam ser implementadas:
-
-*   Suporte a outras criptomoedas.
-*   Gráfico histórico de cotações.
-*   Notificações de alteração de preço.
-*   Melhorias na interface do utilizador.
-
----
-*Este README foi gerado para fins académicos.*
-
