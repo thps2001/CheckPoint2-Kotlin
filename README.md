@@ -46,7 +46,9 @@ A seguir, são apresentadas algumas telas da aplicação para ilustrar o seu fun
 
 Esta tela mostra a aplicação após carregar com sucesso os dados da cotação do Bitcoin. É possível ver o valor em Reais e a data da última atualização.
 
-![Tela com Valor](placeholder_valor.png)
+![Uploading Valor Atualizado.jpeg…]()
+https://github.com/user-attachments/assets/2bd3c17f-c8c2-43fc-bb9b-8fdf5a6947d6
+
 
 *Descrição da Imagem: Tela da aplicação Android exibindo o título "Monitor BTC", um campo com o valor "R$ 53.434,10" e um campo de data "08/05/2025 23:20:00". Abaixo, um botão "ATUALIZAR".*
 
